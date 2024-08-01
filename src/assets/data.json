@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "price": 120.0,
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?"
+  },
+  {
+    "id": 2,
+    "brand": "Adidas",
+    "price": 80.0,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?"
+  },
+  {
+    "id": 3,
+    "brand": "Puma",
+    "price": 90.0,
+    "image": "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg?"
+  },
+  {
+    "id": 4,
+    "brand": "Reebok",
+    "price": 85.0,
+    "image": "https://images.pexels.com/photos/1580267/pexels-photo-1580267.jpeg?"
+  },
+  {
+    "id": 5,
+    "brand": "New Balance",
+    "price": 100.0,
+    "image": "https://images.pexels.com/photos/1670766/pexels-photo-1670766.jpeg?"
+  },
+  {
+    "id": 6,
+    "brand": "Vans",
+    "price": 75.0,
+    "image": "https://images.pexels.com/photos/847371/pexels-photo-847371.jpeg?"
+  },
+  {
+    "id": 7,
+    "brand": "Converse",
+    "price": 65.0,
+    "image": "https://images.pexels.com/photos/40662/shoes-footwear-hiking-shoes-walking-40662.jpeg?"
+  },
+  {
+    "id": 8,
+    "brand": "Skechers",
+    "price": 70.0,
+    "image": "https://images.pexels.com/photos/684152/pexels-photo-684152.jpeg?"
+  },
+  {
+    "id": 9,
+    "brand": "Under Armour",
+    "price": 140.0,
+    "image": "https://images.pexels.com/photos/167706/pexels-photo-167706.jpeg?"
+  },
+  {
+    "id": 10,
+    "brand": "ASICS",
+    "price": 160.0,
+    "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?"
+  },
+  {
+    "id": 11,
+    "brand": "Brooks",
+    "price": 150.0,
+    "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?"
+  },
+  {
+    "id": 12,
+    "brand": "Merrell",
+    "price": 120.0,
+    "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?"
+  },
+  {
+    "id": 13,
+    "brand": "Keen",
+    "price": 140.0,
+    "image": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?"
+  },
+  {
+    "id": 14,
+    "brand": "Timberland",
+    "price": 180.0,
+    "image": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg?"
+  },
+  {
+    "id": 15,
+    "brand": "Dr. Martens",
+    "price": 150.0,
+    "image": "https://images.pexels.com/photos/786003/pexels-photo-786003.jpeg?"
+  },
+  {
+    "id": 16,
+    "brand": "Clarks",
+    "price": 130.0,
+    "image": "https://images.pexels.com/photos/1503009/pexels-photo-1503009.jpeg?"
+  },
+  {
+    "id": 17,
+    "brand": "Ecco",
+    "price": 160.0,
+    "image": "https://images.pexels.com/photos/1032110/pexels-photo-1032110.jpeg?"
+  },
+  {
+    "id": 18,
+    "brand": "Salomon",
+    "price": 140.0,
+    "image": "https://images.pexels.com/photos/847371/pexels-photo-847371.jpeg?"
+  },
+  {
+    "id": 19,
+    "brand": "Hoka One One",
+    "price": 160.0,
+    "image": "https://images.pexels.com/photos/2300334/pexels-photo-2300334.jpeg?"
+  },
+  {
+    "id": 20,
+    "brand": "Mizuno",
+    "price": 130.0,
+    "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg?"
+  }
+]
